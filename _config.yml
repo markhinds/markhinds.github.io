@@ -238,7 +238,7 @@ defaults:
       comment: true
   # _talks
   - scope:
-      path: ""
+      path: "https://markhinds.github.io/talks/"
       type: talks
     values:
       layout: talk
