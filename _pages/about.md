@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I enrolled at Georgia Institute of Technology to pursue a Masters in Computer Science with a specialization in Machine Learning in August 2023. Before enrolling, I was a post baccalaureate Intern at Los Alamos National Laboratory (LANL) in the Information Systems and Modeling Group (A-1) During the summer of 2022, and the majority of 2023. I had worked under Nathanial Blanchard in the HCAI research group at Colorado State University (2021–2022). I completed my B.S in Statistics at Colorado State University in 2022. I'm currently work for the Statistical Science group (CCS-6) at LANL under Natalie Klein. 
+I'm enrolled at Georgia Institute of Technology to pursue a Masters in Computer Science with a specialization in Machine Learning in August 2023. Before enrolling, I was a post baccalaureate Intern at Los Alamos National Laboratory (LANL) in the Information Systems and Modeling Group (A-1) During the summer of 2022, and the majority of 2023. I had worked under Nathanial Blanchard in the HCAI research group at Colorado State University (2021–2022). I completed my B.S in Statistics at Colorado State University in 2022. I'm currently work for the Statistical Science group (CCS-6) at LANL under Natalie Klein. 
 
 Education
 ======
@@ -41,32 +41,14 @@ A-1: Outage Prediction Modeling (A-1: Information Systems and Modeling)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-
+* Python
+  * Pytorch
+  * Tensorflow
+  * PYMC3
+  * Numpy
+  * Pandas
+  * Matplotlib
+* R
+  * DPLYR
+  * GGPLOT
+* SQL
