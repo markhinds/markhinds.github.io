@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "a look into "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I enrolled at Georgia Institute of Technology to pursue a Masters in Computer Science with a specialization in Machine Learning in August 2023. Before enrolling, I was a post baccalaureate Intern at Los Alamos National Laboratory (LANL) in the Information Systems and Modeling Group (A-1) During the summer of 2022, and the majority of 2023. I had worked under Nathanial Blanchard in the HCAI research group at Colorado State University (2021–2022). I completed my B.S in Statistics at Colorado State University in 2022. I'm currently work for the Statistical Science group (CCS-6) at LANL under Natalie Klein. 
 
 Education
 ======
