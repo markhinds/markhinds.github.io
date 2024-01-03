@@ -10,7 +10,7 @@ redirect_from:
 
 ![Banner](/images/banner.png)
 
-I'm enrolled at Georgia Institute of Technology to pursue a Masters in Computer Science with a specialization in Machine Learning in August 2023. Before enrolling, I was a post baccalaureate Intern at Los Alamos National Laboratory (LANL) in the Information Systems and Modeling Group (A-1) During the summer of 2022, and the majority of 2023. I had worked under Nathanial Blanchard in the HCAI research group at Colorado State University (2021–2022). I completed my B.S in Statistics at Colorado State University in 2022. I'm currently work for the Statistical Science group (CCS-6) at LANL under Natalie Klein. 
+I am currently pursuing a Master's in Computer Science with a specialization in Machine Learning at the Georgia Institute of Technology (Aug 2023 - May 2025). Prior to my enrollment, I interned at Los Alamos National Laboratory (LANL) within the Information Systems and Modeling Group (A-1) during the summer of 2022 and was later converted to a post baccalaureate intern during 2023. Before that, I worked under Dr. ![Nathaniel Blanchard](https://sites.google.com/view/nathanieltblanchard) in the ![Computer Vision lab at Colorado State University](https://csu-computer-vision-lab.squarespace.com/) from 2021 to 2022. I earned my B.S. in Statistics from Colorado State University in 2022. Presently, I am employed by the Statistical Science group (CCS-6) as a Graduate Research Assistatn at LANL under the supervision of ![Natalie Klein](https://scholar.google.com/citations?user=VlHLqU0AAAAJ&hl=en).
 
 # Education
 * M.S. in Computer Science, Georgia Institute of Technology, 2025
