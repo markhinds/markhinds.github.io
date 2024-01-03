@@ -18,8 +18,9 @@ Education
 
 Work experience
 ======
-January 2024 - Preset
-CCS-6: 
+January 2024 - Present
+(CCS-6: Statistical Sciences)
+ChemCam Spectroscopy Composition Classification with Neural Network. 
 
 May 2022-August 2023: Post-Baccalaureate Intern (Los Alamos National Lab)
 (A-1: Information Systems and Modeling)
