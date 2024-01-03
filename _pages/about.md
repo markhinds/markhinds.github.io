@@ -20,13 +20,13 @@ My research interests include probabilistic machine learning, uncertainty quanti
 * A.A. in Business Administration, Red Rocks Community College, 2019
 
 # Work experience
-### January 2024 - Present: Graduate Research Assistant (Los Alamos National Lab)
+## January 2024 - Present: Graduate Research Assistant (Los Alamos National Lab)
 (CCS-6: Statistical Sciences)
 
 **ChemCam Spectroscopy Composition Classification with Neural Networks.** 
 
 
-### May 2022 - August 2023: Post-Baccalaureate Intern (Los Alamos National Lab)
+## May 2022 - August 2023: Post-Baccalaureate Intern (Los Alamos National Lab)
 (A-1: Information Systems and Modeling)
 
 **National Critical Decomposition**
