@@ -26,11 +26,15 @@ May 2022-August 2023: Post-Baccalaureate Intern (Los Alamos National Lab)
 National Critical Decomposition
   * Created decompositions for national critical functions using internal software by researching key subfunctions to systems.
   * Researched risk and sensitivity quantification methods to understand propagation in interdependent systems.
+
+
 Electrical Power Restoration Modeling
   * Developed python scripts to collect geospatial earthquake data.
   * Created visualizations, plots and tables summarizing key statistics in R.
   * Conducted a literature review for current state of the art power restoration models during extreme storm events.
   * Supporting the development of a national scale model to predict the outage assessment and repair times following an extreme storm event.
+
+
 Outage Prediction Modeling (A-1: Information Systems and Modeling)
   * Developed a data pipeline to build a dataset that improves the spatial and temporal resolution of the current in- production outage prediction model using Python and R.
   * Identified key parameters used in published and in production models.
