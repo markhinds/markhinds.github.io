@@ -10,9 +10,13 @@ redirect_from:
 
 ![Banner](/images/banner.png)
 
-I am currently pursuing a M.S. in Computer Science with a specialization in Machine Learning at the Georgia Institute of Technology (Aug 2023 - May 2025). Prior to my enrollment, I interned at Los Alamos National Laboratory (LANL) within the Information Systems and Modeling Group (A-1) during the summer of 2022 and was later converted to a post baccalaureate intern in 2023. During my undergrad, I worked under Dr. [Nathaniel Blanchard](https://sites.google.com/view/nathanieltblanchard) in the [Computer Vision lab at Colorado State University](https://csu-computer-vision-lab.squarespace.com/) from 2021 to 2022. I earned my B.S. in Statistics from Colorado State University in 2022. Presently, I am employed by the Statistical Science group (CCS-6) as a Graduate Research Assistant at LANL under the supervision of [Natalie Klein](https://scholar.google.com/citations?user=VlHLqU0AAAAJ&hl=en).
+I am currently pursuing a M.S. in Computer Science at the Georgia Institute of Technology (Aug. 2023 - Dec. 2025). Prior to my enrollment, I interned at Los Alamos National Laboratory (LANL) within the Information Systems and Modeling Group during the summer of 2022 and was later converted to a post-baccalaureate intern in 2023. 
 
-My research interests include probabilistic machine learning, uncertainty quantification methods, generative and natural language models.
+During my undergrad, I worked under Dr. [Nathaniel Blanchard](https://sites.google.com/view/nathanieltblanchard) in the [Computer Vision lab at Colorado State University](https://csu-computer-vision-lab.squarespace.com/) from 2021 to 2022. I earned my B.S. in Statistics from Colorado State University in 2022. 
+
+Presently, I am employed by the Statistical Science group as a Graduate Research Assistant at LANL working under [Natalie Klein](https://scholar.google.com/citations?user=VlHLqU0AAAAJ&hl=en) applying probabilitistic, XAI, and data fusion machine learning methods in planetary science. 
+
+My other research interests include bayesian methods, casual inference, and quantitative finance. 
 
 # Education
 * M.S. in Computer Science, Georgia Institute of Technology, Exp. 2025
@@ -21,17 +25,18 @@ My research interests include probabilistic machine learning, uncertainty quanti
 
 # Work experience
 ### January 2024 - Present: Graduate Research Assistant (Los Alamos National Lab)
-(CCS-6: Statistical Sciences)
+(Statistical Sciences)
 
-*ChemCam Spectroscopy Composition Classification with Neural Networks.* 
-  * Coming soon. 
+*Geochemical Composition Prediction with Spectral Data* 
+
+  * Implemented data fusion models to handle multi-modal spectral data to improve composition prediction. 
+  * Implemented Deep Neural networks with PyTorch to predict elemental composition for spectral data improving model performance by 10% compared to industry standard approaches.
+  * Produced uncertainty quantification results to collaborators via and presented research in the Machine Learning for Physical Sciences (ML4PS) workshop at NeurIPS 2024.
+  * Applied model explainability techniques to reveal how machine learning models arrive at predictions, helping non-technical collaborators to understand which features drive predictions and fostering trust in deep learning technologies.
+
 
 ## May 2022 - August 2023: Post-Baccalaureate Intern (Los Alamos National Lab)
-(A-1: Information Systems and Modeling)
-
-*National Critical Decomposition*
-  * Created decompositions for national critical functions using internal software by researching key subfunctions to systems.
-  * Researched risk and sensitivity quantification methods to understand propagation in interdependent systems.
+(Information Systems and Modeling)
 
 *Electrical Power Restoration Modeling*
   * Developed python scripts to collect geospatial earthquake data.
@@ -51,4 +56,3 @@ My research interests include probabilistic machine learning, uncertainty quanti
   * Numpy, Pandas, Matplotlib
 * R
   * DPLYR, GGPLOT
-* SQL
